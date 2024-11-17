@@ -4,13 +4,10 @@ A calculator app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone the repo and open the project in andriod studio.
 
-A few resources to get you started if this is your first Flutter project:
+Incase you do not have flutter installed, please follow the installation documentation accordingly from the following link: https://docs.flutter.dev/get-started/install
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Once done, open device manager and create a virtual device. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+On the navigation bar run the main.dart to see the app run on the virtual device. (this may take a lot of time depending on the device)
